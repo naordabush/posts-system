@@ -1,2 +1,2 @@
 # posts-system
-this is a simple posts system with google auth
+this is a simple posts system with google auth.
